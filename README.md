@@ -2,6 +2,13 @@
 
 StayEase is a full-stack, production-ready property booking platform inspired by Airbnb. It is built using Django REST Framework for the backend and React (Vite + Tailwind CSS) for the frontend.
 
+<img width="1263" height="662" alt="login" src="https://github.com/user-attachments/assets/dc4bc45a-b8b9-4168-94e5-2391ad7e5d26" />
+
+<img width="1258" height="661" alt="Loggedin" src="https://github.com/user-attachments/assets/771094a0-75b8-4a67-a971-a002f42411dc" />
+
+<img width="1261" height="661" alt="Homepage" src="https://github.com/user-attachments/assets/5510685a-cdfe-4fea-b32d-307ca2b37d7b" />
+
+
 ## Features
 
 - **Authentication:** JWT-based login, registration, and role management (Guest vs. Host).
